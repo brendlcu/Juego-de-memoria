@@ -1,14 +1,6 @@
-//
-//  ViewController.h
-//  Memoria
-//
-//  Created by Brenda  on 07/02/16.
-//  Copyright © 2016 Brenda . All rights reserved.
-//
+//: Playground - noun: a place where people can play
 
-#import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+import UIKit
 
 //juego de memoria. Tarea sem 2
 
@@ -26,5 +18,4 @@ for n in num {
     if n>=30 && n<=40 {print ("\(n)\t\(S)")}
 }
 
-@end
 
