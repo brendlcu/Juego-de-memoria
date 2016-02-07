@@ -51,7 +51,7 @@
 		85EAE4251C67924800E68B01 /* MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoriaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85EAE4291C67924800E68B01 /* MemoriaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MemoriaUITests.m; sourceTree = "<group>"; };
 		85EAE42B1C67924800E68B01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		85EAE4371C67EA9300E68B01 /* memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = memoria.playground; sourceTree = "<group>"; };
+		85EAE4371C67EA9300E68B01 /* memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = memoria.playground; path = ../memoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +82,6 @@
 		85EAE3F81C67924800E68B01 = {
 			isa = PBXGroup;
 			children = (
-				85EAE4371C67EA9300E68B01 /* memoria.playground */,
 				85EAE4031C67924800E68B01 /* Memoria */,
 				85EAE41D1C67924800E68B01 /* MemoriaTests */,
 				85EAE4281C67924800E68B01 /* MemoriaUITests */,
@@ -103,6 +102,7 @@
 		85EAE4031C67924800E68B01 /* Memoria */ = {
 			isa = PBXGroup;
 			children = (
+				85EAE4371C67EA9300E68B01 /* memoria.playground */,
 				85EAE4071C67924800E68B01 /* AppDelegate.h */,
 				85EAE4081C67924800E68B01 /* AppDelegate.m */,
 				85EAE40A1C67924800E68B01 /* ViewController.h */,
